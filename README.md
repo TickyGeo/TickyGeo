@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TickyGeo
 - 👀 I’m interested in watching football :D
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...... I haven't decided yet :D
 - 📫 How to reach me @enjoythefootballmoments (TikTok)
 
