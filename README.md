@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TickyGeo
-- 👀 I’m interested in programming, watching football
+- 👀 I’m interested in programming, engineering, gaming, music, watching football
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...... I haven't decided yet :D
 - 📫 How to reach me @fickeyjockey (TikTok)
 
 <!---
